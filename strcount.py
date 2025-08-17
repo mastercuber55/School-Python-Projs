@@ -14,4 +14,4 @@ for ch in s:
     elif('A' <= ch <= "Z"):
         count[3] += 1
 
-print("Number of vovels, cosonents, lowers, uppers respectively in given string are:", count)
+print("Number of vovels, cosonents, lowers, uppers respectively in given string are:", count)   
